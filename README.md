@@ -24,3 +24,12 @@
 
   * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
     - The R-squared value is indicative of the accuracy of the regression and the value is 0.7149 or 71.5%.  So this definitely has merrrit but correclation does not mean causation and there is 28.5% of the data that is not correlating to the regression.
+
+---------------------------------------------
+
+## **Summary Statistics on Suspension Coils**
+
+- **Summary**
+  * Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
+
+
