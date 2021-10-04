@@ -66,14 +66,14 @@
 
   - Lot 1 P-value 1 > significance level of 0.05
 
-## **T-Test Lot 2******
+## **T-Test Lot 2**
 
 ![Deliverable3_3.PNG](https://github.com/Bionicbabes/MechaCar_Statistical_Analysis/blob/main/Deliverable3_3.PNG)
 
-## Lot 1 P-value 2 > significance level of 0.05
+  - Lot 1 P-value 2 > significance level of 0.05
 
-  - **T-Test Lot 3**
+ ## **T-Test Lot 3**
 
 ![Deliverable3_4.PNG](https://github.com/Bionicbabes/MechaCar_Statistical_Analysis/blob/main/Deliverable3_4.PNG)
 
-## Lot 1 P-value 3 > significance level of 0.05
+  - Lot 1 P-value 3 > significance level of 0.05
