@@ -77,3 +77,41 @@
 ![Deliverable3_4.PNG](https://github.com/Bionicbabes/MechaCar_Statistical_Analysis/blob/main/Deliverable3_4.PNG)
 
   - Lot 3 P-value .04168  > significance level of 0.05
+
+---------------------------------------------
+
+## **Study Design: MechaCar vs Competition**
+
+Study considerations:
+In your study design, think critically about what metrics would be of interest to a consumer.  Examples:
+* Cost
+* City vs Highway fuel efficiency
+* Horse power
+* Maintenance cost
+* Safety rating
+
+Questions:
+* What metric or metrics are you going to test?
+Comparable performance of gasoline versus electric vehicles in terms of total vehicle range on full tank of gas or full battery charge and equivalent distribution of city/highway driving of 25%/75% across the sample set.
+
+* What is the null hypothesis or alternative hypothesis?
+
+Does an electric powered vehicle have higher range than gasoline powered vehicle?
+
+Null Hypothesis:
+Power source (electric vs gasoline) has no effect on total vehicle range assuming similar driving conditions.
+
+Alternative Hypothesis:
+Power source (electric vs gasoline) does have a significant effect on total vehicle range assuming similar driving conditions.  
+
+* What statistical test would you use to test the hypothesis? And why?
+
+Two-Sample t-test for a strict comparison of Electric vs Gasoline powered vehicle datasets to determine significant difference exists or not.
+
+* What data is needed to run the statistical test?
+
+Sample Data required:
+* Cost of full charge / tank of gas
+* Sample set of electric & gasoline powered vehicles (prefer equal distribution on age, make, model)
+* Similar driving pattern & weather conditions
+* Sample size of 40 vehicles from each group
