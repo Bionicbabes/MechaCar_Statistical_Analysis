@@ -83,16 +83,14 @@
 ## **Study Design: MechaCar vs Competition**
 
 Study considerations:
-In your study design, think critically about what metrics would be of interest to a consumer.  Examples:
 * Cost
 * City vs Highway fuel efficiency
 * Horse power
 * Maintenance cost
 * Safety rating
 
-Questions:
 * What metric or metrics are you going to test?
-Comparable performance of gasoline versus electric vehicles in terms of total vehicle range on full tank of gas or full battery charge and equivalent distribution of city/highway driving of 25%/75% across the sample set.
+Comparable performance of gasoline versus electric vehicles in terms of total vehicle range on full tank of gas or full battery charge 
 
 * What is the null hypothesis or alternative hypothesis?
 
