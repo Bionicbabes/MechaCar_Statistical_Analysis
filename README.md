@@ -45,3 +45,4 @@
 
 ![Deliverable2_2.PNG](https://github.com/Bionicbabes/MechaCar_Statistical_Analysis/blob/main/Deliverable2_2.PNG)
 
+  - As we comb through the data and the analysis we can see that the total overall variance for the site (62.29) is under the specification of 100.  As we look deeper and we look at the sample lots we discover that not all the lots are meeting the spec and that lot 3 (170) is over our specification of 100.  We will have to recall these part and make sure they do not make it to the end user.  
