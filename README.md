@@ -37,7 +37,11 @@
    - Using the data set given we are able to run statistics on the data set as a whole and then we are also able to bin the data into lots and run further analysis on each individual lots and compare them all to see if they are meeting specifications.
 
 - **Total Summary**
+
+![Deliverable2_1.PNG](https://github.com/Bionicbabes/MechaCar_Statistical_Analysis/blob/main/Deliverable2_1.PNG)
+
+
 - **Lot Summary**
 
-
+![Deliverable2_2.PNG](https://github.com/Bionicbabes/MechaCar_Statistical_Analysis/blob/main/Deliverable2_2.PNG)
 
