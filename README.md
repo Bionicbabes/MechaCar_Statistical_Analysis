@@ -55,25 +55,25 @@
   * Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 
 - **T-Test Overall**
-- 
+ 
 ![Deliverable3_1.PNG](https://github.com/Bionicbabes/MechaCar_Statistical_Analysis/blob/main/Deliverable3_1.PNG)
 
 - Overall P-value .06028 > significance level of 0.05
 
 - **T-Test Lot 1**
-- 
+
 ![Deliverable3_2.PNG](https://github.com/Bionicbabes/MechaCar_Statistical_Analysis/blob/main/Deliverable3_2.PNG)
 
 - Lot 1 P-value 1 > significance level of 0.05
 
 - **T-Test Lot 2******
-- 
+
 ![Deliverable3_3.PNG](https://github.com/Bionicbabes/MechaCar_Statistical_Analysis/blob/main/Deliverable3_3.PNG)
 
 - Lot 1 P-value 2 > significance level of 0.05
 
 - **T-Test Lot 3**
-- 
+
 ![Deliverable3_4.PNG](https://github.com/Bionicbabes/MechaCar_Statistical_Analysis/blob/main/Deliverable3_4.PNG)
 
 - Lot 1 P-value 3 > significance level of 0.05
